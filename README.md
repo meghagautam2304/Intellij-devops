@@ -1,6 +1,6 @@
 Eclipse : 
-1)After writing the code , right click on project and then team , then share project.
-2) Right click on the project again , and click on Team, then on Commit , the move your java class file from Unstaged to Staged section .
+1)After writing the code , right click on project and then team , then share project.\n
+2) Right click on the project again , and click on Team, then on Commit , the move your java class file from Unstaged to Staged section .\n
 3) Write Commit message and select commit.
 4) Right click on project and select team , then click on push branch master and enter user and password. 
 5) now refresh the repository you can see the changes made .
